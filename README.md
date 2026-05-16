@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋 I'm Disan Alam
 
-<!--
-**disanalam2/disanalam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Web Developer and Cybersecurity student passionate about building modern, secure, and scalable web applications.
 
-Here are some ideas to get you started:
+### About Me
+- 🎓 B.Tech CSE (Cybersecurity) Student
+- 💻 Working with Full Stack technologies
+- 🌱 Continuously learning and improving
+- 🔒 Interested in Web Security and secure application development
+- ⚡ Focused on solving real-world problems through technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+Frontend:
+HTML • CSS • JavaScript • React
+
+Backend:
+Node.js • Express.js
+
+Database:
+MySQL
+
+Tools:
+Git • GitHub • VS Code
+
+### Connect with Me
+
+🌐 Portfolio: https://disanalam.me
+
+💼 LinkedIn: https://www.linkedin.com/in/disanalam/
+
+🐙 GitHub: https://github.com/disanalam2
+
+---
+
+_"Code. Learn. Build. Repeat."_
