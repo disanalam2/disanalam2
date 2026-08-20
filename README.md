@@ -80,30 +80,15 @@ A full-stack portfolio featuring a secured Admin Dashboard that unlocks an integ
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.herokuapp.com/api?username=disanalam2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-<img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=disanalam2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
 <img src="https://streak-stats.demolab.com?user=disanalam2&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" />
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=disanalam2&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
+<br/>
 
 <div align="center">
 
