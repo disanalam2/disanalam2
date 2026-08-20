@@ -53,8 +53,6 @@ A full-stack portfolio featuring a secured Admin Dashboard that unlocks an integ
 - **Tech:** React.js, Node.js, Gemini AI, MySQL, Socket.io
 - **Features:** Dynamic email drafting and sentiment analysis via Gemini AI, real-time tracking data stream to admin panel via Socket.io.
 
-*(The Modern Real Estate Website project is also part of my learning journey but omitted here for brevity).*
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -86,8 +84,8 @@ A full-stack portfolio featuring a secured Admin Dashboard that unlocks an integ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=disanalam2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disanalam2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+<img src="https://github-readme-stats.herokuapp.com/api?username=disanalam2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+<img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=disanalam2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
 <img src="https://streak-stats.demolab.com?user=disanalam2&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" />
 
