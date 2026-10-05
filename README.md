@@ -78,24 +78,6 @@ A full-stack portfolio featuring a secured Admin Dashboard that unlocks an integ
 ![GenAI](https://img.shields.io/badge/AI-Generative_AI_%7C_LangChain-blueviolet?style=for-the-badge)
 
 
----
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=disanalam2&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" alt="GitHub Streak Stats" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=disanalam2&theme=tokyonight&hide_border=true&show_icons=true" width="100%" alt="GitHub Stats" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
