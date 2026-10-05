@@ -79,12 +79,11 @@ A full-stack portfolio featuring a secured Admin Dashboard that unlocks an integ
 
 
 ---
-
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=disanalam2&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api?username=disanalam2&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
 
 </div>
 
